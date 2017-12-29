@@ -27,10 +27,8 @@
       
         {
             "type" : "shell",
-            "script": "/Users/NIS1576-mbp/documents/workspace/fedci-jenkins-slave-node/packer-training/ubuntu/scripts/install_dependencies.sh"
+            "script": "./ubuntu/scripts/install_dependencies.sh"
         }
         
     ]
 }
-
-
